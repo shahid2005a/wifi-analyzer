@@ -183,7 +183,7 @@
 ```bash
 git clone https://github.com/shahid2005a/wifi-analyzer.git
 cd wifi-analyzer
-python main.py
+python wifi_analyzer.py 
 ```
 
 ⚠️ Note: netsh sirf Windows par kaam karta hai. Termux/Linux par ye tool nahi chalega.
@@ -192,13 +192,13 @@ python main.py
 
 ```bash
 # Interactive Menu
-python main.py
+python wifi_analyzer.py 
 
 # Show all passwords at once
-python main.py --all
+python wifi_analyzer.py --all
 
 # Raw JSON output
-python main.py --json
+python wifi_analyzer.py --json
 ```
 
 ---
