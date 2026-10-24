@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-HexSec WiFi Profile & Password Analyzer
+DGTL WiFi Profile & Password Analyzer
 """
 
 import subprocess
