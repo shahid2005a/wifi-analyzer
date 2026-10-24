@@ -1,7 +1,7 @@
 
 ---
 
-📶 WiFi Analyzer - HexSec WiFi Profile & Password Analyzer
+📶 WiFi Analyzer - DGTL WiFi Profile & Password Analyzer
 
            ,-.
           / \  `.  __..-,O
